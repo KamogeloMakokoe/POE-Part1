@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.background{
+    height: 100vh;
+    background-image: url('tutor.png');
+    background-position: center;
+    background-size: cover;
+    filter: blur(4px);
+
+
+
+}
